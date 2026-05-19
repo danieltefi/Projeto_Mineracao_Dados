@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# adc os arquivos da base de dados pois são grandes para o github
+movies.csv 
+ratings.csv
